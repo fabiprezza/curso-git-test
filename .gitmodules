@@ -1,0 +1,4 @@
+[submodule "git-test-submodule"]
+	path = git-test-submodule
+	url = https://github.com/fabiprezza/git-test-submodule
+	branch = master
